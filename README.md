@@ -1,1 +1,2 @@
 # Coffee-Shop-Sales-Dashboard
+The Coffee Shop Sales Dashboard is a powerful visualization tool designed to provide comprehensive insights into a coffee shop's sales performance. It tracks daily, weekly, and monthly sales trends, analyzes product performance, customer purchase patterns, and revenue contributions from various product categories. Utilizing data from the coffee shop's POS system and loyalty programs, this dashboard helps stakeholders make informed, data-driven decisions to optimize sales and operations.
